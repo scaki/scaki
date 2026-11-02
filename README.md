@@ -1,23 +1,35 @@
-Hi 👋 My name is Safa Çakı
-==========================
+# Hi 👋 My name is Safa Çakı
 
-Software Development Team Lead
-------------------------------
+### Technical Team Lead | .NET & AWS | Software Architecture
 
-I have been working in software development for about 7 years. I started my career with frontend development and quickly specialized in fullstack. I am proficient in technologies such as React, Redux, NodeJS, Next.js and .Net. I focused on increasing the performance and scalability of projects with tools such as microservice architecture, Redis, RabbitMQ and Elasticsearch. Currently, as a Team Lead, I take on responsibilities such as team management, technical infrastructure creation and process optimization in projects. My goal is to create value by using my technical knowledge effectively while improving the user experience in every project.
+I am a Technical Team Lead with 9+ years of experience in software development, specializing in backend engineering, distributed systems, and cloud-native architectures. With a background in full-stack development, I focus on designing scalable, reliable, and maintainable systems using technologies such as .NET, Node.js, AWS, and microservices.
 
-* 🌍  I'm based in Istanbul/Türkiye
-* ✉️  You can contact me at [hello@safacaki.com.tr](mailto:hello@safacaki.com.tr)
-* 🚀  I'm currently working on [Popupsmart](http://https://popupsmart.com/)
+Throughout my career, I have worked on high-scale platforms, event-driven architectures, real-time analytics, and enterprise applications. I enjoy solving complex technical challenges, improving system performance, and building robust infrastructure while leading engineering teams, establishing development standards, and optimizing software delivery processes.
+
+My goal is to combine strong engineering practices with effective technical leadership to build scalable systems and deliver long-term business value.
+
+- 🌍 Based in Istanbul, Türkiye
+- 💼 Currently working as a Technical Team Lead at Fuzul Holding
+- ✉️ Contact me at [hello@safacaki.com.tr](mailto:hello@safacaki.com.tr)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/safacaki/)
 
 ### Skills
 
+**Backend & Architecture:**  
+.NET, C#, Node.js, Microservices, Distributed Systems, Event-Driven Architecture, REST APIs, Design Patterns
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+**Cloud & Infrastructure:**  
+AWS, AWS Lambda, API Gateway, SQS, EKS, Docker, Kubernetes, Serverless Architecture, CI/CD
 
+**Databases & Messaging:**  
+PostgreSQL, MSSQL, MongoDB, Redis, RabbitMQ, Kafka, OpenSearch, ClickHouse
+
+**Frontend:**  
+JavaScript, TypeScript, React, Next.js
+
+**Observability & Engineering Practices:**  
+OpenTelemetry, Prometheus, Grafana, Loki, System Design, Performance Optimization, Code Review, Agile, Team Leadership
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/scaki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/safacaki/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- [LinkedIn](https://www.linkedin.com/in/safacaki/)
